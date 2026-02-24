@@ -1,0 +1,8 @@
+@media (min-width: 765px) {
+  .news-input {
+    width: 50%;
+  }
+}
+body {
+  font-family: 'Vazirmatn', sans-serif;
+}
