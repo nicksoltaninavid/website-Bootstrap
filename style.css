@@ -6,3 +6,12 @@
 body {
   font-family: 'Vazirmatn', sans-serif;
 }
+@media (max-width: 768px) {
+  .fs-mobile-sm {
+    font-size: 0.9rem !important;
+  }
+}
+
+*{
+  box-sizing: border-box;
+}
